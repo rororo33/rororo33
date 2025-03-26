@@ -9,5 +9,6 @@
 
 
 ## 📊 GitHub Stats
-![rororo33 github stats](https://github-readme-stats.vercel.app/api?username=username)username=yourusername&show_icons=true&theme=tokyonight)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디&layout=레이아웃 스타일&theme=스타일)
+![rororo33's GitHub stats](https://github-readme-stats.vercel.app/api?username=rororo33&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rororo33&layout=compact&theme=tokyonight)
+
