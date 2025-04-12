@@ -9,6 +9,6 @@
 
 
 ## 📊 GitHub Stats
-![rororo33's GitHub stats](https://github-readme-stats.vercel.app/api?username=rororo33&show_icons=true&theme=tokyonight)
+![rororo33's GitHub stats](https://github-readme-stats.vercel.app/api?username=rororo33&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rororo33&layout=compact&theme=dracula)
 
